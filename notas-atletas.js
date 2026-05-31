@@ -43,4 +43,4 @@ function mediaAtletas(atletas) {
     console.log("")
   }
 }
-mediaAtleta(atletas)
+mediaAtletas(atletas)
