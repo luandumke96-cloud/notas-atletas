@@ -38,7 +38,7 @@ function mediaAtletas(atletas) {
     let media = soma / notasSoma.length;
 
     console.log(`Atleta: ${nome}`);
-    console.log(`notas Obtidas: ${notasOrdenadas.join(", ")}`);
+    console.log(`notas Obtidas: ${notasOrdenadas.join(",")}`);
     console.log(`Media Válida: ${media}`);
   }
 }
