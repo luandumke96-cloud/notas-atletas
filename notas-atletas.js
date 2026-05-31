@@ -39,7 +39,8 @@ function mediaAtletas(atletas) {
 
     console.log(`Atleta: ${nome}`);
     console.log(`notas Obtidas: ${notasOrdenadas.join(",")}`);
-    console.log(`Media Válida: ${media}`);
+    console.log(`Média Válida: ${media}`);
+    console.log("")
   }
 }
 mediaAtleta(atletas)
